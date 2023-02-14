@@ -1,112 +1,128 @@
-<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
+## 一、社区文化
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/vuepress-theme-vdoing"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-vdoing"></a>
-   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" ></a>
-  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/stargazers"><img src="https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
-  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3ACI"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/CI/badge.svg" alt="CI"></a>
-  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3AbaiduPush"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/baiduPush/badge.svg" alt="baiduPush"></a>
-</p>
+**名称：**
 
-<h2 align="center">vuepress-theme-vdoing</h2>
+PowerData数据之力
 
+**初衷：**
 
+凝聚国内数据力量
 
- [文档](https://doc.xugaoyi.com/)  |
- [效果](https://xugaoyi.com/)  |
- [本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)
+**愿景：**
 
-<br/>
-<p align="center" style="color: #999;">
-  赞助商
-</p>
-<p align="center">
-<!-- <a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/Apifox-860x320.ic7tz1417sw.png" alt="赞助商" style="width: 400px;border-radius: 2px;"></a> -->
-<a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/441669861566_.2bedplbm21hc.jpg" alt="赞助商" style="width: 400px;border-radius: 2px;"></a>
-</p>
+打造国内优秀的大数据技术社区
 
-<p align="center" style="color: #999; font-size:13px;">（进入赞助商扫码注册可为本项目作者充电~）</p>
+**口号：**
 
-## 介绍
-1. 这个主题的初衷是打造一个好用的、面向程序员的`知识管理工具`
-2. 轻松构建一个`结构化`的知识库，让你的知识海洋像一本本书一样清晰易读。
-3. 博客功能提供一种知识的`碎片化`形态，并支持个性化博客配置。
-4. `简洁高效`，以 Markdown 为中心的项目结构。内置自动化工具，以更少的配置完成更多的事。配合多维索引快速定位每个知识点。
+PowerData 非同凡想
 
-[**更新日志**](https://github.com/xugaoyi/vuepress-theme-vdoing/releases)
+**使命：**
 
-## 这个主题可以做什么？
-* 案例1：[知识库兼博客站](https://xugaoyi.com/)
-* 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
-* 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
-* 案例4：[文档站](https://doc.xugaoyi.com/)
+专注自我提升，推动行业发展
+
+**价值观：**
+
+思考、交流、贡献、共赢
+
+**原则：**
+
+开源精神、不卖课、不卖资料、不贩卖焦虑、不做知识付费
 
 
-## 快速上手
-
-```bash
-# clone the project
-git clone https://github.com/xugaoyi/vuepress-theme-vdoing.git
-
-# enter the project directory
-cd vuepress-theme-vdoing
-
-# install dependency
-npm install # or yarn install
-
-# develop
-npm run dev # or yarn dev
-```
-
-<!-- ## ⚡️未来...
 
 
-期待 [VuePress v2.0](https://github.com/vuepress/vuepress-next) 以及 [VitePress](https://github.com/vuejs/vitepress) 的正式发布...
 
-届时，VuePress 1.x 编译慢的缺点将得到极大的改善。我将会视情况把主题升级至 VuePress v2.0 或 VitePress，也可能两个都升级。目前(2020.10.29)来看还需要一段时间才能让大家使用上基于它们的新版本，还希望大家多多 [:sparkling_heart:支持](https://doc.xugaoyi.com/pages/1b12ed/) 哟，持续关注吧~ -->
+## 二、社区声明
 
-## :sparkling_heart:支持这个项目
+### 1、我们是谁🔥
 
-如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下*任意* 方式支持我：
+我们是由一群数据从业人员，因为热爱凝聚在一起，以开源精神为基础，组成的PowerData数据之力社区。
 
-1. *Star* 并 分享这个项目 :rocket:
-2. 保留主题 footer(页脚) 的主题链接 :D
-3. 关注公众号`yqyjs666`，回复`前端资源`，可获取 [前端学习资源](https://github.com/xugaoyi/blog-gitalk-comment/wiki/Front-end-Study)
-<!-- 4. 轻轻点击一次页面广告 ✨ -->
-4. 通过以下二维码 一次性捐款。 我多半会买一杯 ~~咖啡~~ 茶。:tea:
+### 2、为什么是PowerData❓
 
-谢谢！ :heart:
+Power代表力量， Data代表数据
 
-| 微信赞赏 | 微信 | 支付宝 |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150>| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
+PowerData代表我们想要将国内数据力量通过社区凝聚在一起，专注自我提升，推动行业发展。
 
-二维码没有正常显示？点 [这里😎](https://doc.xugaoyi.com/pages/1b12ed/)
+### 3、我们的目标🧭
 
-## 致谢
-:heart:感谢支持这个项目的朋友
+1）吸引国内数据人才，提供一个热情的、开放的、探讨技术、分享生活的数据人交流社区；
 
-:heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing/graphs/contributors)
+2）连接国内开源力量，为国内开源社区提供融合贯通的交流之地；
 
-## 交流群
+3）提供技术分享阵地，让每一个具有‘’技术热情的成员都能通过社区发挥自己的技术价值；
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/SaV6d0YfaAS0naAeQWibGVkSt6DxSaqGxdkJaeEqoJJ6M1NV1kq9aUqE3lGo7BuroTAoMg4rgibIIay1ibfvqXEiaA/0?wx_fmt=jpeg" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>vdoing微信群(添加我微信备注"加群")</p>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/qq.3ugglfuuwz00.webp" alt="群号: 694387113" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>vdoing QQ群: 694387113</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+4）成为友情的孵化地，通过社区结交志同道合的朋友，让技术之路不再孤单；
+
+5）通过每个人的努力，将Power Data打造为国内优秀的大数据技术社区；
+
+### 4、我们在做的⌛
+
+**1）文章发布✏️：** 通过社区传播矩阵，发布社区成员的文章以及技术视频；
+
+**2）技术分享📅：** 定期举办技术分享，通过腾讯会议、B站、视频号进行直播；
+
+**3）主题研讨💡：** 不定期挑选行业热点主题举办相关研讨会，大家均可畅所欲言；
+
+**4）模拟面试💻：** 通过组织模拟面试活动，提升面试能力，冲刺心仪岗位；
+
+**5）线下聚会🍲：** Power Data成员所在城市均会定期组织线下聚会，与社区好友闲叙；
+
+**6）求职内推👨‍💻：** 通过社区内部搜集内推岗位，为社区成员的offer保驾护航；
+
+## 5、我们要做的💯
+
+**1）内部竞赛🥇：** 组织内部技术竞赛，包括但不限于代码、方案、bug、八股等；
+
+**2）技术测评🏆：** 测评大数据相关组件以及大数据厂商产品，给出测评报告以及推荐场景；
+
+**3）线下会议🤝：** 组织各城市线下技术会议，进行主题分享以及线下交流，打出社区影响力；
+
+**4）开源项目🌐：** 内部发起并维护开源项目，通过社区成员的添砖加瓦，贡献中国开源力量；
+
+**5）书籍出版📚：** 社区内部发起并出版数据行业相关书籍，规范化体系化输出技术价值；
+
+## 6、如何加入我们❤️
+
+关注**Power Data**公众号，点击公众号下方 **“加入我们”**
+
+<img src='https://s1.ax1x.com/2023/02/14/pSTuSWd.png' alt='加入我们' style="width:400px;">
 
 
-## 许可证
-[MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
-Copyright (c) 2019-present Evan Xu
+
+
+
+
+
+# 三、传播矩阵
+
+**文章类**
+
+> **1、公众号：PowerData**
+
+> **2、CSDN：PowerData数据之力（**[PowerData数据之力的博客_CSDN博客-领域博主](https://blog.csdn.net/PowerDataHub)**）**
+
+> **3、知乎：PowerData（**[PowerData - 知乎](https://www.zhihu.com/people/PowerDataHub)**）**
+
+> **4、头条：PowerData（**[PowerData的头条主页 - 今日头条(www.toutiao.com)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAdnVQW6ukCKUFQwFUDSmqfjOhxIS4Htq-RRYmXATK0dRBcJOEpzrkIUIQsuGRzuAf/)**）**
+
+> **5、知识星球：PowerData(**[PowerData的知识星球](https://public.zsxq.com/groups/48841182255888.html)**)**
+
+**视频直播类**
+
+> **1、B站：**[PowerData数据之力](https://space.bilibili.com/1570904681)**
+
+> **2、腾讯会议： **[PowerData社区发布会](https://meeting.tencent.com/dm/TFf7OZaKl3za)** 
+
+> **3、视频号：PowerData**
+
+<img src='https://s1.ax1x.com/2023/02/14/pSTuZFg.png' alt='视频号' style="width:400px;">
+
+
+
+**官方网站**
+
+> **1、github：PowerData数据之力 (**[PowerDataClub](https://github.com/PowerDataClub/PowerData)**)**
+
+> **2、powerdata.top**：(**[powerdata.top](https://powerdata.top)**)**
