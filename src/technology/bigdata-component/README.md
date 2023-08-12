@@ -1,10 +1,6 @@
 ---
 title: 大数据组件
-
+article: false
 ---
 
-
-## 目录
-
-- [Zookeeper在Hbase中的应用](zookeeper-in-hbase.md)
-
+<AutoCatalog />

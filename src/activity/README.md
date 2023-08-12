@@ -1,14 +1,15 @@
 ---
 title: 活动
-icon: activity
+icon: bell
 star: true
 sticky: 20
+head:
+  - - meta
+    - name: keywords
+      content: 模拟面试,活动,大数据,PowerData
 ---
-本文介绍了PowerData组织过的活动
+PowerData 活动目录
 
 <!-- more -->
 
-## 目录
-
-- [模拟面试](interview/README.md)
-- [主题研讨会](seminar/README.md)
+<AutoCatalog />

@@ -33,6 +33,8 @@ export default hopeTheme({
 
   displayFooter: true,
 
+  print: false,
+
   blog: {
     description: "PowerData",
     intro: "/intro.html",

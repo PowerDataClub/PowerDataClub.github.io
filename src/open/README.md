@@ -1,13 +1,10 @@
 ---
 title: 开源项目
-
 icon: code
-
-star: true
-
-sticky: 20
+article: false
+index: false
 ---
-本文介绍了PowerData目前筹备的项目
+PowerData目前筹备的开源项目
 
 <!-- more -->
 

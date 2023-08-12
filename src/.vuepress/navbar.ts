@@ -2,7 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  { text: "活动", icon: "bell", link: "/activity/" },
   {
      text: "技术",
       icon: "rocket",
@@ -10,7 +9,6 @@ export default navbar([
       children: [
         {
           text: "数据中台",
-          icon: "server",
           link: "data-mid-platform/",
           activeMatch: "^/data-mid-platform/$",
         },
@@ -27,6 +25,7 @@ export default navbar([
       prefix: "/open/",
       children: ["bigdata-learning-roadmap.md", "bigdata-data-component-evaluation.md"], 
 },
+  { text: "活动", icon: "bell", link: "/activity/" },
   { text: "文章", icon: "pen", link: "/blog/" },
   { text: "关于", icon: "info", link: "/about.md" },
   // {

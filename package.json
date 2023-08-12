@@ -19,6 +19,7 @@
     "vuepress-theme-hope": "2.0.0-beta.234"
   },
   "dependencies": {
-    "@iconify/vue": "^4.1.1"
+    "@iconify/vue": "^4.1.1",
+    "markdown-it-task-checkbox": "^1.0.6"
   }
 }
