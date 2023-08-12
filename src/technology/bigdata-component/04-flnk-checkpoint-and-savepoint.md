@@ -23,7 +23,7 @@ order: -4
 
 对本文感兴趣或有任何疑问，或者想要加入社区的同学，可直接添加作者微信。
 
-![](./simpreadFlinkcheckPoint与savePoint应用\16607724.png)
+![](http://oss.powerdata.top/hub-image/16607724.png)
 
 # 前言
 
