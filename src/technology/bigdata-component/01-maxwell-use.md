@@ -1,6 +1,6 @@
 ---
 title: "Maxwell使用指南"
-date: 2022-12-16 09:00
+date: 2022-12-16 09:00:00
 description: "目前 MySQL 的同步工具有很多，Maxwell 也是其中比较好的一个选择，本文就同步工具的优略，以及 Maxwell 的使用做一个较为详细的说明。"
 head:
   - - meta
