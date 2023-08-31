@@ -571,7 +571,7 @@ Kafka 是通过使用 epoch number（纪元编号，也称为隔离令牌）来�
 
 每个新选出的 controller 通过 Zookeeper 的条件递增操作获得一个全新的、数值更大的 epoch number 。其他 Broker 在知道当前 epoch number 后，如果收到由 controller 发出的包含较旧 (较小)epoch number 的消息，就会忽略它们，即 Broker 根据最大的 epoch number 来区分当前最新的 controller。
 
-![](06Kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/06kafka01.jpg)上图，Broker3 向 Broker1 发出命令: 让 Broker1 上的某个分区副本成为 leader，该消息的 epoch number 值为 1。于此同时，Broker2 也向 Broker1 发送了相同的命令，不同的是，该消息的 epoch number 值为 2，此时 Broker1 只听从 Broker2 的命令 (由于其 epoch number 较大)，会忽略 Broker3 的命令，从而避免脑裂的发生。
+![](http://oss.powerdata.top/hub-image/06kafka01.jpg)上图，Broker3 向 Broker1 发出命令: 让 Broker1 上的某个分区副本成为 leader，该消息的 epoch number 值为 1。于此同时，Broker2 也向 Broker1 发送了相同的命令，不同的是，该消息的 epoch number 值为 2，此时 Broker1 只听从 Broker2 的命令 (由于其 epoch number 较大)，会忽略 Broker3 的命令，从而避免脑裂的发生。
 
 # 22、如何为 Kafka 集群选择合适的
 
