@@ -787,7 +787,7 @@ Kafka 本身无法保障多分区的有序性，可以通过业务设计进行�
 
 想要加入社区或对本文有任何疑问，可直接添加作者微信交流。
 
-![](06Kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/06kafka02.jpg)
+![](http://oss.powerdata.top/hub-image/06kafka02.jpg)
 
 图：作者微信
 
