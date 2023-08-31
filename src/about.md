@@ -105,7 +105,7 @@ PowerData代表我们想要将国内数据力量通过社区凝聚在一起，�
 
 **视频直播类**
 
-> **1、B站：**[PowerData数据之力](https://space.bilibili.com/1570904681)**
+> **1、B站：**[PowerData数据之力](https://space.bilibili.com/1570904681)
 
 > **2、腾讯会议： **[PowerData社区发布会](https://meeting.tencent.com/dm/TFf7OZaKl3za)**
 

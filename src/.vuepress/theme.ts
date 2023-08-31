@@ -29,7 +29,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "<a target='_blank' href='https://beian.miit.gov.cn/'>苏ICP备2023020368号 </a> ",
 
   displayFooter: true,
 
@@ -39,20 +39,12 @@ export default hopeTheme({
     description: "PowerData",
     intro: "/intro.html",
     medias: {
-      BiliBili: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Wechat: "https://example.com",
+      BiliBili: "https://space.bilibili.com/1570904681",
+      GitHub: "https://github.com/PowerDataClub/PowerData",
+      Wechat: "https://mp.weixin.qq.com/s/D8MGfu4j-Js5RIGVWcj5YA",
     },
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
 
   // page meta
   metaLocales: {
