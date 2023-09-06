@@ -13,7 +13,8 @@ export default defineUserConfig({
   theme,
 
   head: [
-    ["script", { src: "https://hm.baidu.com/hm.js?e386f3bc12f7e151ac5d683b767db28f" }]
+    ["script", { src: "https://hm.baidu.com/hm.js?e386f3bc12f7e151ac5d683b767db28f" }],
+    ["meta", {name: "baidu-site-verification", content: "codeva-pj2M6HC1R4"}],
   ],
 
   // Enable it with pwa
