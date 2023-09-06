@@ -1,7 +1,6 @@
 ---
 title: 我们是？
 icon: info
-cover: https://s1.ax1x.com/2023/08/05/pPkNJte.png
 ---
 ## 一、社区文化
 

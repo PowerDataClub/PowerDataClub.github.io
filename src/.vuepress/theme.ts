@@ -76,9 +76,14 @@ export default hopeTheme({
 
     comment: {
       // You should generate and use your own comment service
-      comment: false,
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
+     /**
+       * Using Giscus
+       */
+     provider: "Giscus",
+     repo: "PowerDataClub/PowerDataClub.github.io",
+     repoId: "R_kgDOKFqMnA",
+     category: "Announcements",
+     categoryId: "DIC_kwDOKFqMnM4CZHOA",
     },
 
     // all features are enabled for demo, only preserve features you need here

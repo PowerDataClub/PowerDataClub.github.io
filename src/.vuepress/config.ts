@@ -12,6 +12,10 @@ export default defineUserConfig({
 
   theme,
 
+  head: [
+    ["script", { src: "https://hm.baidu.com/hm.js?e386f3bc12f7e151ac5d683b767db28f" }]
+  ],
+
   // Enable it with pwa
   // shouldPrefetch: false,
 
