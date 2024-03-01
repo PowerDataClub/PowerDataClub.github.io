@@ -14,8 +14,7 @@ head:
 > 2024，社区计划在全国十个城市举办"数字经济-城市开源行"活动，连接社区成员、传播数字技术、推广开源文化，吸引更多伙伴加入社区，共建数字开源。
 
 
-![](https://files.mdnice.com/user/26302/3252de02-fbbf-4bf3-9201-add5e3a1ba20.png)
-
+![](http://oss.powerdata.top/hub-image/3252de02-fbbf-4bf3-9201-add5e3a1ba20.png)
 
 # 一、社区介绍
 ### 名称：
@@ -63,7 +62,7 @@ PowerData 非同凡想
 
 
 
-![](https://files.mdnice.com/user/37547/d6f0a5d8-b0e0-4a9b-bf69-81ae240f4541.png)
+![](http://oss.powerdata.top/hub-image/d6f0a5d8-b0e0-4a9b-bf69-81ae240f4541.png)
 
 
 
@@ -78,11 +77,11 @@ PowerData 非同凡想
 # 四、荣誉证书
 > 针对各城市活动行的组织者、 分享嘉宾与志愿者，社区会在活动当天放发纸质荣誉证书。
 
-![](https://files.mdnice.com/user/26302/fbfb147f-494c-4bc0-b848-3448e97c409d.png)
+![](http://oss.powerdata.top/hub-image/fbfb147f-494c-4bc0-b848-3448e97c409d.png)
 
-![](https://files.mdnice.com/user/26302/b859f43f-c7ba-40ba-b633-79f34fbc5ae5.png)
+![](http://oss.powerdata.top/hub-image/b859f43f-c7ba-40ba-b633-79f34fbc5ae5.png)
 
-![](https://files.mdnice.com/user/26302/be5cda82-b460-4741-8e84-dab829dd58f0.png)
+![](http://oss.powerdata.top/hub-image/be5cda82-b460-4741-8e84-dab829dd58f0.png)
 
 # 五、活动共建
 ​		我们真诚邀请对数据开源感兴趣的组织与个人作为合作方参与本次活动，合作内容如下：
@@ -127,7 +126,7 @@ PowerData 非同凡想
 **具体活动信息可关注社区公众号后申请加入社区，获取最新动态。也可扫描下方二维码洽谈合作事宜。**
 
 
-![](https://files.mdnice.com/user/37547/645cb693-d1ff-4c9d-93a7-5e84d0012c48.png)
+![](http://oss.powerdata.top/hub-image/645cb693-d1ff-4c9d-93a7-5e84d0012c48.png)
 
 
 ------
