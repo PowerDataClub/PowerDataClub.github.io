@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
-     text: "技术",
+      text: "技术",
       icon: "rocket",
       prefix: "/technology/",
       children: [
@@ -25,7 +25,29 @@ export default navbar([
       prefix: "/open/",
       children: ["bigdata-learning-roadmap.md", "bigdata-data-component-evaluation.md"], 
 },
-  { text: "活动", icon: "bell", link: "/activity/" },
+  { 
+    text: "活动", 
+    icon: "bell", 
+    prefix: "/activity/",
+    children:[
+      {
+        text: "模拟面试",
+        link: "interview/",
+        activeMatch: "^/interview/$",
+      },
+      {
+        text: "主题研讨会",
+        link: "seminar/",
+        activeMatch: "^/seminar/$",
+      },
+      {
+        text: "城市开源行",
+        link: "open-city/",
+        activeMatch: "^/open-city/$",
+      }
+    ]
+
+  },
   { text: "文章", icon: "pen", link: "/blog/" },
   { text: "关于", icon: "info", link: "/about.md" },
 
